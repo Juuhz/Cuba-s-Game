@@ -63,4 +63,4 @@ OBS: ao rodar o **npm start**, será aberta automaticamente uma página no seu n
 
 ## Agradecimentos
 
-Equipe VML, pela oportunidade.
+Equipe VML, pela oportunidade de aprendizado.
