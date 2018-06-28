@@ -3,6 +3,7 @@
 Este projeto deve como as seguintes premissas e objetivos: 
 - Aprender a utilizar o Styled-Components.
 - Criar uma organização de pastas intuitiva, com o Styled-Components separado do arquivo principal do componente ( index.jsx ).
+- Zoar o Luan.
 
 ## Vamos começar?
 
